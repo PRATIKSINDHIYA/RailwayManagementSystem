@@ -25,6 +25,18 @@ The **Railway Management System** is a web application designed to help users an
 
 ---
 
+## 📷 Screenshots
+
+Here’s what RailwayManagementSystem looks like in action:
+
+![Screenshot](AdminAddTrains.png)
+![Screenshot](AdminHomepage.png)
+![Screenshot](AdminSignup.png)
+![Screenshot](Available_BookTrain.png)
+![Screenshot](UserDetailFillFormBookTrainTicket.png)
+![Screenshot](UserSearchTrain.png)
+![Screenshot](Userlogin.png)
+
 ## Tech Stack 💻
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express.js
